@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KalingaYapa 5 Years of experiece & currently working as a full stack developer @ GTN Technologies Sri Lanka 
+- 👋 Hi, I’m @KalingaYapa 5 Years of experience & currently working as a full stack developer @ GTN Technologies Sri Lanka 
 - 👀 I’m interested in java backend development [J2EE, Spring, Spring Boot, EJB]
 - 🌱 I’m currently learning python,Spring boot & React 
 - 💞️ I’m looking to collaborate on opensource github repositories
