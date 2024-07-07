@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python,Spring boot ,React & AWS 
 - 💞️ I’m looking to collaborate on opensource github repositories
 - 📫 How to reach me ? kkyapa@gmail.com
+- portfolio - https://kalingayapa.github.io/my-portfolio/
 
 <!---
 KalingaYapa/KalingaYapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
